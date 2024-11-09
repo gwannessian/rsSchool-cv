@@ -17,7 +17,7 @@
           <h2>Skills</h2>
           <ul>
             <li><b>Programming</b></li>
-            <li>HTML <br>CSS <br>JavaScript</li><br>
+            <li>HTML<br>CSS <br>JavaScript</li><br>
             <li><b> Languages</b><br>English (B1, Intermediate)<br>Arabic (Native)<br>Armenian (Native)<br>Turkish(C1,Advanced)</li><br>
             <li><b> Microsoft Office, Google Suite</b><br>Excel, PowerPoint, Words<br>Google Slides, Sheet, Docs</li><br>
             <li><b> Visual Editing</b><br>Canva<br>Mobile video editing</li><br>
