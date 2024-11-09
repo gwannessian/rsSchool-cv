@@ -27,21 +27,21 @@
           <ul>
             <li><b>. Leadership</b><br>Lead the team of 22 members of the Youth union for 1,5 year.<br></li><br>
             <li><b>.Organization</b><br>Organized 15+ events</li><br>
-            <li><b>. Communication</b><br>Have experienced in internal communication within the team and in external communication of our official partners and guests.</li><br>
+            <li><b>. Communication</b><br>Have experienced in internal communication within the team and in external communication of our official partners and guests.</li>                <br>
             <li><b>. Collaboration / teamwork</b><br>easy going and collaborative with team members during the events and other activities.</li><br>
             <li><b>.Public Speaking</b><br>Media interviews at TV morning shows</li>
           </ul>
         </div>
         <div class="content">
           <h2>About Me</h2>
-          <p>m an enthusiastie and curious girl, passionate about becoming a top specialist in saies, especialy in the IT sector. I also love programming. burin at a crossroads where I need to Cnnose between mastering sales or diving deeper into coding. No matter the path. I'm committed to becoming an expert. In my spare time, I'm very into reading. meeting interesting people, singing, and exploring the world.</p>
+          <p>m an enthusiastie and curious girl, passionate about becoming a top specialist in saies, especialy in the IT sector. I also love programming. burin at a                     crossroads where I need to Cnnose between mastering sales or diving deeper into coding. No matter the path. I'm committed to becoming an expert. In my spare                 time, I'm very into reading. meeting interesting people, singing, and exploring the world.</p>
           <h2>Experience</h2>
           <div>
             <p>May 2020 - Current</p>
             <h3>The Chairman of the youth union of the Saint Khach - Araratian
                 Pandifical Diocese, </h3>
                 <p>Yerevan
-                    Oversaw weekly operations of the Youth Union, organizing cultural and Church, events, and hosting international guests. Led a 22-member team under Archbishop Navasard Kichoyans supervision
+                    Oversaw weekly operations of the Youth Union, organizing cultural and Church, events, and hosting international guests. Led a 22-member team under                             Archbishop Navasard Kichoyans supervision
                     Developed programs through strong communication and collaboration, ensuring timely execution with excellent planning and coordination.</p>
           </div>
           <div>
@@ -63,7 +63,7 @@
             <p>2024</p>
             <h3>JavaScript Certificate, Web Development Full Learning LLC, Yerevan</h3>
             <p>. Completed a 9-month web development course, gaining hands-on experience in building and optimizing websites using various technologies and best practices.
-                <br>.Participated in Code Battle by Full Learning LLC, a competition with hundreds of experts. Awarded the Best Coder title for exceptional performance in completing the given tasks</p>
+                <br>.Participated in Code Battle by Full Learning LLC, a competition with hundreds of experts. Awarded the Best Coder title for exceptional performance in                 completing the given tasks</p>
           </div>
           <div>
             <p>2022</p>[Uploading style.css…]()
