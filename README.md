@@ -66,7 +66,7 @@
                 <br>.Participated in Code Battle by Full Learning LLC, a competition with hundreds of experts. Awarded the Best Coder title for exceptional performance in                 completing the given tasks</p>
           </div>
           <div>
-            <p>2022</p>[Uploading style.css…]()
+            <p>2022</p>
             <h3>JavaScript Certificate, Web Development Full Learning LLC, Yerevan</h3>
             <p>Training in Entrepreneurship and Marketing
                 "Technological Entrepreneurship" by BSC-HTL, Yerevan, ER
