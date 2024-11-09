@@ -16,20 +16,20 @@
           <p>Yerevan, Armenia<br>gwannessian@gmail.com</p>
           <h2>Skills</h2>
           <ul>
-            <li><b>.Programming</b></li>
+            <li><b>Programming</b></li>
             <li>HTML <br>CSS <br>JavaScript</li><br>
-            <li><b>. Languages</b><br>English (B1, Intermediate)<br>Arabic (Native)<br>Armenian (Native)<br>Turkish(C1,Advanced)</li><br>
-            <li><b>. Microsoft Office, Google Suite</b><br>Excel, PowerPoint, Words<br>Google Slides, Sheet, Docs</li><br>
-            <li><b>. Visual Editing</b><br>Canva<br>Mobile video editing</li><br>
-            <li>. AI Promoting: Text Prompting:ChatGPT<br>Image Prompting:Midjourney<br>Presentation Building: Gamma AI</li>
+            <li><b> Languages</b><br>English (B1, Intermediate)<br>Arabic (Native)<br>Armenian (Native)<br>Turkish(C1,Advanced)</li><br>
+            <li><b> Microsoft Office, Google Suite</b><br>Excel, PowerPoint, Words<br>Google Slides, Sheet, Docs</li><br>
+            <li><b> Visual Editing</b><br>Canva<br>Mobile video editing</li><br>
+            <li> AI Promoting: Text Prompting:ChatGPT<br>Image Prompting:Midjourney<br>Presentation Building: Gamma AI</li>
           </ul>
           <h2>Soft Skills</h2>
           <ul>
-            <li><b>. Leadership</b><br>Lead the team of 22 members of the Youth union for 1,5 year.<br></li><br>
-            <li><b>.Organization</b><br>Organized 15+ events</li><br>
-            <li><b>. Communication</b><br>Have experienced in internal communication within the team and in external communication of our official partners and guests.</li>                <br>
-            <li><b>. Collaboration / teamwork</b><br>easy going and collaborative with team members during the events and other activities.</li><br>
-            <li><b>.Public Speaking</b><br>Media interviews at TV morning shows</li>
+            <li><b> Leadership</b><br>Lead the team of 22 members of the Youth union for 1,5 year.<br></li><br>
+            <li><b>Organization</b><br>Organized 15+ events</li><br>
+            <li><b> Communication</b><br>Have experienced in internal communication within the team and in external communication of our official partners and guests.</li>                <br>
+            <li><b> Collaboration / teamwork</b><br>easy going and collaborative with team members during the events and other activities.</li><br>
+            <li><b>Public Speaking</b><br>Media interviews at TV morning shows</li>
           </ul>
         </div>
         <div class="content">
